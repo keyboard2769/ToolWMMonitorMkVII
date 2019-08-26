@@ -1,6 +1,7 @@
 Word Memory Monitor v7
 ===
-
+The 7th implementation of my WordMemoryMonitor for Fuji PLC MICREX-SX Series 
+<hr>
 ## hold
 ## plan
 - [ ] the reconnect button is useless!! delete it!!
